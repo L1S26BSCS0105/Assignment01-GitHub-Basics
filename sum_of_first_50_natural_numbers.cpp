@@ -1,3 +1,10 @@
+/*
+Program: Sum of first 50 natural numbers
+Name: Tahreem Fatima
+Reg No: L1S26BSCS0105
+Assignment: 01 - Getting started with Github.
+*/
+
 #include <iostream>
 using namespace std;
 
